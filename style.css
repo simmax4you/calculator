@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: lightcyan;
+  }
+  #h1{
+    background-color: lightblue;
+  }
+  #multiply{
+      border-radius: 0%;
+  }
+  #output1{
+    font-size: 30px;
+    color: #31eb40;
+  }
+  #output2{
+    font-size: 30px;
+    color: #710c0c;
+  }
+  #output3{
+    font-size: 30px;
+    color: #af24d6;
+  }
+  #output4{
+    font-size: 30px;
+    color: #0008ff;
+  }
+  #division title{
+    font-size: 40px;
+  }
+  #multiplication title{
+    font-size: 40px;
+  }
+  #addition title{
+    font-size: 40px;
+  }
+  #subtraction title{
+    font-size: 40px;
+  }
